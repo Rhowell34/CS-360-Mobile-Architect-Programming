@@ -17,3 +17,10 @@ I tested the application on multiple different virtual machines withing the Andr
 
 **Considering the full app design and development process, from initial planning to finalization, where did you have to innovate to overcome a challenge?**
 
+The biggest challange for me was applying the business login to the UI screens. The UI was fairly easy to develop but getting the UI to work well with the business logic was fairly difficult. I was able to overccome this by reading and watching many tutoroals online. 
+
+The biggest challenge for me was applying the business login to the UI screens. The UI was fairly easy to develop but getting the UI to work well with the business logic was fairly difficult. I was able to overcome this by reading and watching many tutorials online.
+
+**In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?**
+
+I believe the best component of my app was the inventory table. The fact that you can select the individual components and change the name, description, and inventory count was the most successful portion of my application.
